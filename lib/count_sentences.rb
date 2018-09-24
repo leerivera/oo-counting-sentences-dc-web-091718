@@ -6,8 +6,10 @@ class String
    
       
       if self.end_with? != (".")
-    end 
-     false
+    
+        false
+        elsif
+        true
      
      
   end
