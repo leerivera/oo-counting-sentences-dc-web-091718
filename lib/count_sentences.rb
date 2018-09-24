@@ -8,11 +8,11 @@ class String
        
      
      
-     return true
+      true
      
       elsif
       
-      return false
+      false
      
    end
    
