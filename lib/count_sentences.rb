@@ -5,11 +5,13 @@ class String
   def sentence?
     
      if self.end_with? == (".")
+     else
+       false
     end
      
      
-     false 
-    end
+     
+  end
   
 
   def question?
