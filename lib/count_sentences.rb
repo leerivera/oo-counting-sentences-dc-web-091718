@@ -5,12 +5,7 @@ class String
   def sentence?
    
       
-      if self.end_with? != (".")
-    
-        false
-        elsif
-        true
-      end
+      if self.end_
      
   end
   
