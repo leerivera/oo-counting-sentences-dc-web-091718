@@ -6,9 +6,8 @@ class String
     
      if self.end_with? == (".")
     end
-     true
-     if self.end_with? == (".")
-     end
+     
+     
      false 
     end
   
