@@ -6,15 +6,6 @@ class String
     
      if self.end_with? == (".")
        
-     
-     
-      true
-     
-      elsif
-      
-      false
-     
-   end
    
    
   end
