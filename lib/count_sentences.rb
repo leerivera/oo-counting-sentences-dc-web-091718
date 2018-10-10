@@ -46,5 +46,6 @@ class String
 
   def count_sentences
     self.split(/\.|\?|\!/).delete_if {|w| w.size < 2}.size
+    #makes self array and takes in the arugement and then deletes it. 
   end
 end
